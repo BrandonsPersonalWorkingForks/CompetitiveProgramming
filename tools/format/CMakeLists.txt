@@ -19,7 +19,7 @@ endif()
 
 find_program(CLANG_FORMAT
     NAMES clang-format
-    PATHS "C:/Program Files/Microsoft Visual Studio/2022/Preview/VS/Tools/Llvm/bin"
+    PATHS "C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/Llvm/bin"
     DOC "clang-format executable to use"
     NO_DEFAULT_PATH
     NO_CMAKE_PATH
